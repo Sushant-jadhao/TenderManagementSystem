@@ -1,0 +1,21 @@
+/* AssignContractForm.css */
+.assign-contract-form {
+    margin-top: 20px;
+  }
+  
+  .assign-contract-form .card-header {
+    font-size: 1.5rem;
+  }
+  
+  .assign-contract-form .card-body {
+    padding: 20px;
+  }
+  
+  .assign-contract-form .form-label {
+    font-weight: bold;
+  }
+  
+  .assign-contract-form .btn-block {
+    margin-top: 20px;
+  }
+  

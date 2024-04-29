@@ -1,0 +1,51 @@
+/* ContractorDetails.css */
+
+.contractor-details-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .contractor-details-container h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+  }
+  
+  .contractor-details-container .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .contractor-details-container input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .contractor-details-container button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .contractor-details-container button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .contractor-details-container .loading {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .contractor-details-container .contractor-details p {
+    margin-bottom: 5px;
+  }
+  

@@ -1,0 +1,3 @@
+[submodule "clien"]
+	path = clien
+	url = https://github.com/Sushant-jadhao/TenderManagement.git

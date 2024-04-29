@@ -1,0 +1,60 @@
+/* CheckBlacklistStatus.css */
+
+.check-blacklist-status {
+    margin-top: 20px;
+  }
+  
+  .check-blacklist-status h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-message {
+    color: #dc3545;
+    margin-top: 10px;
+  }
+  
+  .loading {
+    margin-top: 10px;
+  }
+  
+  .blacklisted-msg {
+    color: #dc3545;
+    font-weight: bold;
+  }
+  
+  .not-blacklisted-msg {
+    color: #28a745;
+    font-weight: bold;
+  }
+  

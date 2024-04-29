@@ -1,0 +1,50 @@
+/* CloseTender.css */
+
+.close-tender-container {
+    margin-top: 20px;
+  }
+  
+  .close-tender-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .close-button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .close-button:hover {
+    background-color: #c82333;
+  }
+  
+  .close-button:disabled {
+    background-color: #6c757d;
+    cursor: not-allowed;
+  }
+  
+  .loading {
+    margin-top: 10px;
+  }
+  

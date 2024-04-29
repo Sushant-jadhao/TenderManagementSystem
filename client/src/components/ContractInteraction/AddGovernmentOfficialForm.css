@@ -1,0 +1,31 @@
+/* AddGovernmentOfficialForm.css */
+
+.add-official-form {
+    margin-top: 50px;
+  }
+  
+  .card-header {
+    padding: 15px;
+  }
+  
+  .card-body {
+    padding: 30px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border-radius: 25px;
+  }
+  
+  .btn-primary {
+    border-radius: 25px;
+    padding: 12px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  

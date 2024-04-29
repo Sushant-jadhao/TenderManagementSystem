@@ -1,0 +1,33 @@
+/* contractor-profile.css */
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav-item {
+    margin-right: 10px; /* Adjust spacing between navbar items */
+  }
+  
+  .nav-link {
+    background: none;
+    border: none;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link.active {
+    color: #007bff; /* Change color of active navbar item */
+  }
+  
+  .nav-link:hover {
+    color: #007bff; /* Change color of navbar item on hover */
+  }
+  

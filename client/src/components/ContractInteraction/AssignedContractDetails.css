@@ -1,0 +1,40 @@
+/* AssignedContractDetails.css */
+.assigned-contract-details {
+    margin-top: 20px;
+  }
+  
+  .assigned-contract-details-container {
+    margin-top: 20px;
+  }
+  
+  .assigned-contract-details-container h3 {
+    margin-bottom: 10px;
+  }
+  
+  .assigned-contract-details-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .assigned-contract-details-container table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .assigned-contract-details-container table td:first-child {
+    font-weight: bold;
+    background-color: #f2f2f2;
+  }
+  
+  .assigned-contract-details-container table td:last-child {
+    text-align: left;
+  }
+  
+  .assigned-contract-details-container table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .assigned-contract-details-container table tr:hover {
+    background-color: #ddd;
+  }
+  

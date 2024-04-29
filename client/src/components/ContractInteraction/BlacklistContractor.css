@@ -1,0 +1,39 @@
+/* BlacklistContractor.css */
+
+.blacklist-contractor {
+  max-width: 600px; /* Increased max-width for better readability */
+  margin: 0 auto;
+  font-family: Arial, sans-serif; /* Improved font-family for better readability */
+  padding: 20px; /* Added padding for better spacing */
+}
+
+.form-group {
+  margin-bottom: 30px; /* Increased margin-bottom for better spacing */
+}
+
+.form-control {
+  width: 100%;
+  padding: 12px; /* Increased padding for better input field size */
+  border: 2px solid #007bff; /* Changed border to match button color */
+  border-radius: 5px;
+  font-size: 16px; /* Adjusted font-size for better readability */
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 12px 24px; /* Increased padding for better button size */
+  cursor: pointer;
+  color: #fff; /* Added text color for better contrast */
+  font-size: 16px; /* Adjusted font-size for better readability */
+  transition: background-color 0.3s; /* Added smooth transition for hover effect */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.text-danger {
+  color: #dc3545;
+}
